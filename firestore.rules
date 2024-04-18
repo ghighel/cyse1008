@@ -6,4 +6,8 @@ service cloud.firestore {
       allow read, write: if false;
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> feature/assignment3
